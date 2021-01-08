@@ -45,7 +45,5 @@ public abstract class Vehicule {
 
 
 
-//    protected void prepareForLap(Race race); // setup the actual speed used for the current lap
-//    protected void moveForAnHour(); // The vehicle travels for an hour. It increases the distance traveled. Call this from the Race::simulateRace() only!
     }
 
